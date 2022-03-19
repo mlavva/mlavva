@@ -8,6 +8,7 @@ Passionate about technology, development, and innovation. Interested in software
 [![Email](https://img.shields.io/badge/Email%20-lightblue)](m&#97;&#105;&#108;&#116;&#111;&#x3A;&#109;&#108;&#97;&#118;&#118;&#97;&#64;&#98;&#101;&#114;&#107;&#101;&#108;&#101;&#121;&#46;&#101;&#100;u)
 [![Cal Alumni](https://img.shields.io/badge/Cal%20Alumni%20-yellow)](https://cal.berkeley.edu/mlavva)
 [![Academia](https://img.shields.io/badge/Academia%20-grey)](https://ucberkeley.academia.edu/mlavva)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate%20-mediumaquamarine)](https://ucberkeley.academia.edu/mlavva)
 [![AngelList](https://img.shields.io/badge/AngelList%20-lightgrey)](https://angel.co/u/mlavva)
 [![Codecademy](https://img.shields.io/badge/Codecademy%20-black)](https://www.codecademy.com/profiles/mlavva)
 [![Kaggle](https://img.shields.io/badge/Kaggle%20-mediumblue)]( https://www.kaggle.com/dataclass)
