@@ -10,7 +10,7 @@ Passionate about technology, development, and innovation. Interested in software
 [![Academia](https://img.shields.io/badge/Academia%20-grey)](https://ucberkeley.academia.edu/mlavva)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate%20-mediumaquamarine)](https://www.researchgate.net/profile/Michael-Lavva)
 [![AngelList](https://img.shields.io/badge/AngelList%20-lightgrey)](https://angel.co/u/mlavva)
-[![Twitter](https://img.shields.io/badge/Twitter%20-blue)](https://twitter.com/m_lavva)
+[![Twitter](https://img.shields.io/badge/Twitter%20-darkblue)](https://twitter.com/m_lavva)
 [![Codecademy](https://img.shields.io/badge/Codecademy%20-black)](https://www.codecademy.com/profiles/mlavva)
 [![Kaggle](https://img.shields.io/badge/Kaggle%20-mediumblue)]( https://www.kaggle.com/dataclass)
 
