@@ -6,11 +6,11 @@ Passionate about technology, development, and innovation. Interested in software
 [![Homepage](https://img.shields.io/badge/Homepage%20-lightgrey)](https://mlavva.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-mlavva-blue)](https://www.linkedin.com/in/mlavva/)
 [![Email](https://img.shields.io/badge/Email%20-lightblue)](m&#97;&#105;&#108;&#116;&#111;&#x3A;&#109;&#108;&#97;&#118;&#118;&#97;&#64;&#98;&#101;&#114;&#107;&#101;&#108;&#101;&#121;&#46;&#101;&#100;u)
-[![Cal Alumni](https://img.shields.io/badge/Cal%20Alumni%20-yellow)](https://cal.berkeley.edu/mlavva)
+[![Twitter](https://img.shields.io/badge/Twitter%20-darkblue)](https://twitter.com/m_lavva)
 [![Academia](https://img.shields.io/badge/Academia%20-grey)](https://ucberkeley.academia.edu/mlavva)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate%20-mediumaquamarine)](https://www.researchgate.net/profile/Michael-Lavva)
+[![Cal Alumni](https://img.shields.io/badge/Cal%20Alumni%20-yellow)](https://cal.berkeley.edu/mlavva)
 [![AngelList](https://img.shields.io/badge/AngelList%20-lightgrey)](https://angel.co/u/mlavva)
-[![Twitter](https://img.shields.io/badge/Twitter%20-darkblue)](https://twitter.com/m_lavva)
 [![Codecademy](https://img.shields.io/badge/Codecademy%20-black)](https://www.codecademy.com/profiles/mlavva)
 [![Kaggle](https://img.shields.io/badge/Kaggle%20-mediumblue)]( https://www.kaggle.com/dataclass)
 
